@@ -1,1 +1,0 @@
-This is just a testfile made in the masteris branch, and should be merged to master branch.
